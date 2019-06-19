@@ -1,6 +1,6 @@
 # Upute za pokretanje
 
-Za pokretanje yupiter bilježnice "zavrsni_kod.ipynb" potrebno je prijaviti se na www.kaggle.com i kreirati novi kernel.
+Za pokretanje jupyter bilježnice "zavrsni_kod.ipynb" potrebno je prijaviti se na www.kaggle.com i kreirati novi kernel.
 
 Dodaju se skupovi podataka 'dog breed identification' i 'Keras Pretrained Models' korisnika "beluga".
 
@@ -10,4 +10,4 @@ Doda se Jupyter bilježnica i pokreće se ćeliju po ćeliju.
 
 Također je potrebno u postavkama uključiti korištenje grafičke kartice (GPU).
 
-Za pokretanje yupiter bilježnice "vgg16_strojno.ipynb" potrebno je ponovno dodati skup podataka 'dog breed identification' te još skup podataka 'VGG16'.
+Za pokretanje jupyter bilježnice "vgg16_strojno.ipynb" potrebno je ponovno dodati skup podataka 'dog breed identification' te još skup podataka 'VGG16'.
